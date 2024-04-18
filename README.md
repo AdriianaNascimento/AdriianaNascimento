@@ -1,21 +1,7 @@
 ### Olá, Meu nome é Adriana Nascimento 
+🎓 Graduanda de Análise e Desenvolvimento de Sistemas 2º/5º - PUC MINAS. 
 
-🙋🏻‍♀️ Meu nome é Adriana Pereira Nascimento, tenho 20 anos de idade e atualmente sou de Minas Gerais, Belo Horizonte.
-
-🎓 Graduanda de Análise e Desenvolvimento de Sistemas 2º/5º - PUC MINAS. Estudo principalmente FrontEnd.
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=AdrianaNascimento=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
-
+##
 
 
 <div>
@@ -30,7 +16,6 @@
 
 ##
 
-📚 Curso Inglês Básico na CNA.
 
 <div> 
   <a href="https://www.instagram.com/_dricode/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
